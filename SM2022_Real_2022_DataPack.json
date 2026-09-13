@@ -1,0 +1,140 @@
+{
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Arsenal",
+      "ShortName": "ARS",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/1.png"
+    },
+    {
+      "ID": 2,
+      "Name": "Aston Villa",
+      "ShortName": "AVL",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/2.png"
+    },
+    {
+      "ID": 11,
+      "Name": "Brentford",
+      "ShortName": "BRE",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/11.png"
+    },
+    {
+      "ID": 12,
+      "Name": "Brighton & Hove Albion",
+      "ShortName": "BHA",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/12.png"
+    },
+    {
+      "ID": 15,
+      "Name": "Burnley",
+      "ShortName": "BUR",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/15.png"
+    },
+    {
+      "ID": 21,
+      "Name": "Chelsea",
+      "ShortName": "CHE",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/21.png"
+    },
+    {
+      "ID": 27,
+      "Name": "Crystal Palace",
+      "ShortName": "CRY",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/27.png"
+    },
+    {
+      "ID": 31,
+      "Name": "Everton",
+      "ShortName": "EVE",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/31.png"
+    },
+    {
+      "ID": 40,
+      "Name": "Leeds United",
+      "ShortName": "LEE",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/40.png"
+    },
+    {
+      "ID": 41,
+      "Name": "Leicester City",
+      "ShortName": "LEI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/41.png"
+    },
+    {
+      "ID": 44,
+      "Name": "Liverpool",
+      "ShortName": "LIV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/44.png"
+    },
+    {
+      "ID": 47,
+      "Name": "Manchester City",
+      "ShortName": "MCI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/47.png"
+    },
+    {
+      "ID": 49,
+      "Name": "Manchester United",
+      "ShortName": "MUN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/49.png"
+    },
+    {
+      "ID": 52,
+      "Name": "Newcastle United",
+      "ShortName": "NEW",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/52.png"
+    },
+    {
+      "ID": 54,
+      "Name": "Norwich City",
+      "ShortName": "NOR",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/54.png"
+    },
+    {
+      "ID": 72,
+      "Name": "Southampton",
+      "ShortName": "SOU",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/72.png"
+    },
+    {
+      "ID": 80,
+      "Name": "Tottenham Hotspur",
+      "ShortName": "TOT",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/80.png"
+    },
+    {
+      "ID": 83,
+      "Name": "Watford",
+      "ShortName": "WAT",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/83.png"
+    },
+    {
+      "ID": 85,
+      "Name": "West Ham United",
+      "ShortName": "WHU",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/85.png"
+    },
+    {
+      "ID": 88,
+      "Name": "Wolverhampton Wanderers",
+      "ShortName": "WOL",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/88.png"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Premier League",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/leagues/28.png"
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "FA Cup",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/cups/2.png"
+    }
+  ],
+  "StadiumData": []
+}
