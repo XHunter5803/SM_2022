@@ -1,0 +1,44 @@
+{
+  "PlayerData": [
+    {
+      "ID": 2772,
+      "Forename": "Lionel",
+      "Surname": "Messi",
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/2772.png"
+    },
+    {
+      "ID": 103179,
+      "Forename": "Matej",
+      "Surname": "Kovar",
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/103179.png"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 49,
+      "Name": "Manchester United",
+      "ShortName": "MUN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/49.png"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Premier League",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/leagues/28.png"
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "FA Cup",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/cups/2.png"
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Emirates Stadium"
+    }
+  ]
+}
